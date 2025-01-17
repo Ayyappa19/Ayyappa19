@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayyappa-swamy-y-521234258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayyappa-swamy-y-521234258/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayyappa-swamy-y-521234258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayyappa-swamy-y-521234258/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ayyappa19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayyappa19" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayyappa-19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayyappa-19" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/22a91aw9km" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="22a91aw9km" height="30" width="40" /></a>
